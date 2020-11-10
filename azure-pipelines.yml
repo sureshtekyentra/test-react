@@ -25,9 +25,7 @@ steps:
     command: 'install'
 
 
-    
-- script: npm run build
-  displayName: "npm build"
+
 
 
 
