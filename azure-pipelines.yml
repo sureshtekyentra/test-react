@@ -1,7 +1,7 @@
 # Node.js
 # Build a general Node.js project with npm.#dbvndvbchdvbvhfhjffgfghgvfsgdffdh
 # Add steps thacvfbvbt analyze code, save build artifacts, deploy, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+# https://docs.microsoft.com/azure/debnnghmvops/pipelines/languages/javascript
 
 trigger:
 - master
